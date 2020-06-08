@@ -70,4 +70,7 @@ Step 3 ( Fun with CURL - API Readiness) :
   Search Patient by Email
   
          curl -v http://localhost:5000/FHIR/api/Practitioner/?email=Quinton758.Hammes673@example.com
+         
+         
+         xyz
 
